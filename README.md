@@ -15,7 +15,6 @@ Tarayıcınızda http://localhost:3000 adresini ziyaret edin.
 Yerel Geliştirme
 bash# Repository'yi klonlama
 git clone https://github.com/eren-karakus0/DockerWorkshop.git
-cd docker-workshop
 
 # Docker ile build etme
 docker build -t getting-started .

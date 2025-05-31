@@ -14,8 +14,7 @@ Bu Docker workshop projesine katkıda bulunmak istediğiniz için teşekkürler!
 
 ```bash
 # Projeyi klonlayın
-git clone https://github.com/eren-karakus0/docker-workshop.git
-cd docker-workshop
+git clone https://github.com/eren-karakus0/DockerWorkshop.git
 
 # Docker ile çalıştırın
 docker build -t getting-started .
