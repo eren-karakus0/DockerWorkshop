@@ -7,14 +7,14 @@ Bu proje Docker resmi workshop'unu takip ederek oluşturulmuş bir Todo uygulama
 ### Docker ile Çalıştırma
 ```bash
 # Docker Hub'dan image çekme
-docker pull knkchn/docker-workshop
+docker pull knkchn/getting-started
 
 # Container başlatma
 docker run -dp 127.0.0.1:3000:3000 knkchn/docker-workshop
 Tarayıcınızda http://localhost:3000 adresini ziyaret edin.
 Yerel Geliştirme
 bash# Repository'yi klonlama
-git clone https://github.com/eren-karakus0/docker-workshop.git
+git clone https://github.com/eren-karakus0/DockerWorkshop.git
 cd docker-workshop
 
 # Docker ile build etme
